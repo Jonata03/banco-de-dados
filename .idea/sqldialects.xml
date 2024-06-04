@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SqlDialectMappings">
-    <file url="file://$PROJECT_DIR$/SELECT-aula4.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/juncao_tabela.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/manipulando_bancos.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/numeros.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/orderBy-aula7.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/strings-aula10.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/comandos SQL/SELECT-aula4.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/comandos SQL/chave_primaria.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/comandos SQL/juncao_tabela.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/comandos SQL/manipulando_bancos.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/comandos SQL/numeros.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/comandos SQL/orderBy-aula7.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/comandos SQL/strings-aula10.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/tabelas postgresql/auto_increment_serial.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/tabelas postgresql/inserindo_valores.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/tabelas postgresql/tabelas.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/tabelas postgresql/tebalas_temporarias.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/tabelas postgresql/valores_nulos.sql" dialect="PostgreSQL" />
   </component>
 </project>
