@@ -47,3 +47,23 @@ J
 restricoes/foreign_key.sql,a/f/af466d40d6e47240e188cc1c38029649b0789efb
 G
 indices/list_e_drop.sql,5/f/5f1283dd13afadb4e6657c45c448cc8382487921
+H
+indices/unique_index.sql,f/e/fe650bd56f6140285bc0b85bf030db9c7be8f5e9
+J
+tipos de dados/numeric;sql,1/4/14a1479709d4d535ab6c84a4cad86dbc9b18d189
+J
+tipos de dados/numeric.sql,3/3/335f54e8a6a59ee9aa85286ff833a111c6db9ce1
+T
+$tipos de dados/char_varchar_text.sql,0/5/057c78a4bfb2869ffb6d5f97faed19a73ef71703
+J
+tipos de dados/boolean.sql,b/b/bb080336b1d82d52b8a8d9182e8753cb4cbb758a
+G
+tipos de dados/date.sql,d/e/deb5552ec72141a866d75f5bb1a33174b08743b3
+I
+tipos de dados/serial.sql,9/a/9ad97cbbfa1dc50d768770da9e5ab1dce9e920ac
+G
+tipos de dados/UUID.sql,9/f/9f3e6c9eb430e1da4f04866f852894b6adeb7ba8
+G
+tipos de dados/json.sql,2/f/2fb25b21ad1a05e69c521d5e7170e533dd3a2c19
+I
+functions /introducao.sql,f/f/ffb73c7f0f0a862a14793862d766db6888bd04d4
