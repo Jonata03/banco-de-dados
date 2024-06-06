@@ -14,6 +14,8 @@
     <file url="file://$PROJECT_DIR$/consulta avancada/joins.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/consulta avancada/limit_e_offset.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/consulta avancada/nullif.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/functions /introducao.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/functions /raise_notice.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/indices/list_e_drop.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/indices/unique_index.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/restricoes/check.sql" dialect="PostgreSQL" />
